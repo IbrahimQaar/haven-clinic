@@ -58,7 +58,33 @@ From a technical perspective, the project follows a layered architecture with cl
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/af3b6e78-02d3-420e-b795-81cd8c70353a" />
+
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/96560614-9e3e-43f2-8078-2c0106abfe40" />
+
+<img width="800" height="760" alt="Image" src="https://github.com/user-attachments/assets/1d6effa6-3d73-46e3-acd9-d775271067cb" />
+
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/573e1ebe-d23a-40b4-b92f-8d5adbdbdaeb" />
+
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/59a3d1a3-0d28-4502-b057-3dd9fd1b699b" />
+
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/b554d733-9d14-4e93-a7d4-6685576cba02" />
+
+<img width="800" height="825" alt="Image" src="https://github.com/user-attachments/assets/4794b855-6526-4e98-92de-2969f655f412" />
+
+<img width="800" height="828" alt="Image" src="https://github.com/user-attachments/assets/aeb48d1e-5251-408b-b7e3-5ed10a6212b6" />
+
+<img width="800" height="825" alt="Image" src="https://github.com/user-attachments/assets/3af4b217-d800-4772-8ac3-ef577c558e10" />
+
+<img width="800" height="828" alt="Image" src="https://github.com/user-attachments/assets/c2d496d2-a038-4330-a3f0-437e6c4e3624" />
+
+<img width="800" height="829" alt="Image" src="https://github.com/user-attachments/assets/4883b8b1-c47f-4d79-881a-8574806f7e1e" />
+
+<img width="800" height="827" alt="Image" src="https://github.com/user-attachments/assets/890e1e22-a5fa-42da-8d0c-280feaa82b1d" />
+
+<img width="800" height="826" alt="Image" src="https://github.com/user-attachments/assets/ed2b4363-2a2e-4d0c-bf9e-d9a0dbb210fc" />
+
+<img width="800" height="826" alt="Image" src="https://github.com/user-attachments/assets/1a3ee60f-c742-41d9-8d99-23bd5cb9fd5e" />
 
 ---
 

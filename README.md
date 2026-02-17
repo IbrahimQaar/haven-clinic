@@ -7,13 +7,14 @@ Haven Clinic is a full-stack healthcare web application that models patient-faci
 ---
 
 ## Screenshots
+<img width="1511" height="857" alt="Screenshot 2026-02-17 at 1 37 00 AM" src="https://github.com/user-attachments/assets/07612e36-bc8b-4600-b6e6-fb59e514d871" />
+<img width="1511" height="860" alt="Screenshot 2026-02-17 at 1 47 54 AM" src="https://github.com/user-attachments/assets/ab71c587-0095-4631-bcf9-5dcecbaf9c3a" />
 
-<img width="1509" height="857" alt="Screenshot 2026-02-17 at 1 50 16 AM" src="https://github.com/user-attachments/assets/9f6dda97-2d27-4ce7-94c8-c559f7e4c2d2" />
-<img width="1510" height="860" alt="Screenshot 2026-02-17 at 1 50 02 AM" src="https://github.com/user-attachments/assets/d1c404a7-52d5-45ca-8538-5779019a1a10" />
-<img width="1512" height="862" alt="Screenshot 2026-02-17 at 1 49 54 AM" src="https://github.com/user-attachments/assets/d327a555-a90d-4fc2-83c4-5787018ea505" />
-<img width="1510" height="861" alt="Screenshot 2026-02-17 at 1 49 46 AM" src="https://github.com/user-attachments/assets/8a89c66e-46dc-408d-ba94-50a4a256ee7e" />
-<img width="1511" height="860" alt="Screenshot 2026-02-17 at 1 47 54 AM" src="https://github.com/user-attachments/assets/dffea6bc-a11a-4d88-9bc6-fb872f2cdec1" />
-<img width="1511" height="857" alt="Screenshot 2026-02-17 at 1 37 00 AM" src="https://github.com/user-attachments/assets/117616e5-4500-4716-a535-ce70540a0eb8" />
+<img width="1510" height="861" alt="Screenshot 2026-02-17 at 1 49 46 AM" src="https://github.com/user-attachments/assets/d282cde2-484b-42a0-bac2-bc0fd29104f0" />
+
+<img width="1510" height="860" alt="Screenshot 2026-02-17 at 1 50 02 AM" src="https://github.com/user-attachments/assets/c2ca7768-94c3-4a61-b370-e9785d6f2586" />
+
+<img width="1509" height="857" alt="Screenshot 2026-02-17 at 1 50 16 AM" src="https://github.com/user-attachments/assets/44a53fd1-09ab-4d58-a1d2-e3e9f490ccb8" />
 
 ---
 
